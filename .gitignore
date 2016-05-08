@@ -1,0 +1,5 @@
+# ignore the following
+node_modules/
+
+# new bower components directory
+public/lib
